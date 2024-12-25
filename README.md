@@ -10,6 +10,10 @@ This document presents an implementation of computer vision and machine learning
 2. [Sample Images](#sample-images)
 3. [Model Weights](#model-weights)
 
+## Illustrated Workflow
+
+<img width="1154" alt="image" src="https://github.com/user-attachments/assets/c9c90e27-e5f4-49eb-8cfe-2a84965f42a1" />
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/13c87368-6152-44c9-a01a-877b4140fc7e" />
 
 
 ## Requirements
@@ -17,4 +21,4 @@ This document presents an implementation of computer vision and machine learning
 To run the project, install the following dependencies:
 
 ```bash
-pip install torch numpy opencv-python matplotlib
+pip install torch torchvision numpy opencv-python matplotlib
