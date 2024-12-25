@@ -8,7 +8,7 @@ This document presents an implementation of computer vision and machine learning
 
 1. [Code Implementation](#code-implementation)
 2. [Sample Images](#sample-images)
-3. [Model Weights](#model-weights)
+3. [Model Weights](#https://github.com/fly2023me/Soybean_detection/tree/main/weight)
 
 ## Illustrated Workflow
 
